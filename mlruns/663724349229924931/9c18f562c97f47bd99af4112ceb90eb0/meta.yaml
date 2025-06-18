@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Laskar AI/submission terakhir/classification/mlruns/663724349229924931/9c18f562c97f47bd99af4112ceb90eb0/artifacts
+end_time: 1750258554421
+entry_point_name: ''
+experiment_id: '663724349229924931'
+lifecycle_stage: active
+run_id: 9c18f562c97f47bd99af4112ceb90eb0
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750258538064
+status: 3
+tags: []
+user_id: gizel

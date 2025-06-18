@@ -1,0 +1,10 @@
+artifact_location: file:D:/Laskar AI/submission terakhir/classification/mlruns/663724349229924931/models/m-c58087bf785649dea91ad7b2bd0466db/artifacts
+creation_timestamp: 1750258538480
+experiment_id: '663724349229924931'
+last_updated_timestamp: 1750258545765
+model_id: m-c58087bf785649dea91ad7b2bd0466db
+model_type: null
+name: model
+source_run_id: 9c18f562c97f47bd99af4112ceb90eb0
+status: 2
+status_message: null

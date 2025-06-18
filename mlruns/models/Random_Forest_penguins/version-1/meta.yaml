@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1750258537920
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1750258537920
+metrics: null
+model_id: m-b5e086dafb424227b82940980ab798c8
+name: Random_Forest_penguins
+params: null
+run_id: cb9111b81f604ae78377c7360c71184d
+run_link: null
+source: models:/m-b5e086dafb424227b82940980ab798c8
+status: READY
+status_message: null
+storage_location: file:D:/Laskar AI/submission terakhir/classification/mlruns/663724349229924931/models/m-b5e086dafb424227b82940980ab798c8/artifacts
+user_id: null
+version: 1

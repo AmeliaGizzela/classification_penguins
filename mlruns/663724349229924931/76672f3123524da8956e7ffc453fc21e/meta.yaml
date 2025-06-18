@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Laskar AI/submission terakhir/classification/mlruns/663724349229924931/76672f3123524da8956e7ffc453fc21e/artifacts
+end_time: 1750258570946
+entry_point_name: ''
+experiment_id: '663724349229924931'
+lifecycle_stage: active
+run_id: 76672f3123524da8956e7ffc453fc21e
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750258554437
+status: 3
+tags: []
+user_id: gizel

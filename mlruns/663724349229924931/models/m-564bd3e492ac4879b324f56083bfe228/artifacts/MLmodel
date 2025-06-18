@@ -1,0 +1,22 @@
+artifact_path: file:D:/Laskar AI/submission terakhir/classification/mlruns/663724349229924931/models/m-564bd3e492ac4879b324f56083bfe228/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.0
+model_id: m-564bd3e492ac4879b324f56083bfe228
+model_size_bytes: 4720
+model_uuid: m-564bd3e492ac4879b324f56083bfe228
+prompts: null
+run_id: 76672f3123524da8956e7ffc453fc21e
+utc_time_created: '2025-06-18 14:56:03.215948'

@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1750258554304
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1750258554304
+metrics: null
+model_id: m-538a988e14834377a82ad3fb62f60bdc
+name: Logistic_Regression_penguins
+params: null
+run_id: 9c18f562c97f47bd99af4112ceb90eb0
+run_link: null
+source: models:/m-538a988e14834377a82ad3fb62f60bdc
+status: READY
+status_message: null
+storage_location: file:D:/Laskar AI/submission terakhir/classification/mlruns/663724349229924931/models/m-538a988e14834377a82ad3fb62f60bdc/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1750258570824
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1750258570824
+metrics: null
+model_id: m-564bd3e492ac4879b324f56083bfe228
+name: SVM_penguins
+params: null
+run_id: 76672f3123524da8956e7ffc453fc21e
+run_link: null
+source: models:/m-564bd3e492ac4879b324f56083bfe228
+status: READY
+status_message: null
+storage_location: file:D:/Laskar AI/submission terakhir/classification/mlruns/663724349229924931/models/m-564bd3e492ac4879b324f56083bfe228/artifacts
+user_id: null
+version: 1

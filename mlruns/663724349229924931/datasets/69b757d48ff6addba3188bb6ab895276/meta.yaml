@@ -1,0 +1,11 @@
+digest: fcccf20e
+name: dataset
+profile: '{"num_rows": 266, "num_elements": 1596}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "bill_length_mm", "required":
+  true}, {"type": "double", "name": "bill_depth_mm", "required": true}, {"type": "double",
+  "name": "flipper_length_mm", "required": true}, {"type": "double", "name": "body_mass_g",
+  "required": true}, {"type": "long", "name": "island_encoded", "required": true},
+  {"type": "long", "name": "sex_encoded", "required": true}]}'
+source: '{"tags": {"mlflow.user": "gizel", "mlflow.source.name": "d:/Laskar AI/submission
+  terakhir/classification/modelling.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code

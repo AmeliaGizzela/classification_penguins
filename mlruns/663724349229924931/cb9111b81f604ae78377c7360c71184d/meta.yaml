@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Laskar AI/submission terakhir/classification/mlruns/663724349229924931/cb9111b81f604ae78377c7360c71184d/artifacts
+end_time: 1750258538052
+entry_point_name: ''
+experiment_id: '663724349229924931'
+lifecycle_stage: active
+run_id: cb9111b81f604ae78377c7360c71184d
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750258510870
+status: 3
+tags: []
+user_id: gizel
